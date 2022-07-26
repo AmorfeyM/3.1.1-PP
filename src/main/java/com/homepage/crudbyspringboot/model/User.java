@@ -2,7 +2,7 @@ package com.homepage.crudbyspringboot.model;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "users")
+@Table(name = "uuusers")
 public class User {
 
    @Id
